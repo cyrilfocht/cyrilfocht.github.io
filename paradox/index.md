@@ -1,6 +1,6 @@
 ## examples of interactive paradox
 
-![animation 1](https://github.com/cyrilfocht/cyrilfocht.github.io/blob/paradox/paradox/MV2.gif)
+![animation 1](/paradox/MV2.gif)
 
 **animation 1:** The structure of the level appears to change when the column is rotated
 ***
