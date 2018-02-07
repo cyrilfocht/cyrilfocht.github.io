@@ -13,24 +13,26 @@ One such contained object is a hallway leading to another room.
 
 ***
 
-![animation 3](/paradox/AC2.gif)
+![animation 3](/paradox/MV3.gif)
 
-**animation 3:** A door which is only open when it is not within view of the player.
-
-***
-
-![animation 4](http://cdn.akamai.steamstatic.com/steam/apps/557600/extras/Gorogoa_2S.png?t=1513702083)
-
-**animation 4:** Movement across panels when the panels are aligned.
+**animation 3:** The structure contained in the box depends on which face the box is opened from.
 
 ***
 
-![animation 5](http://cdn.akamai.steamstatic.com/steam/apps/557600/extras/Gorogoa_3S.png?t=1513702083)
+![animation 4](http://cdn.akamai.steamstatic.com/steam/apps/557600/extras/Gorogoa_3S.png?t=1513702083)
 
-**animation 5:** The contents of panels change when they either frame or are framed by other panels.
+**animation 4:** The contents of panels change when they either frame or are framed by other panels.
 
 ***
 
-![animation 6](/paradox/MV3.gif)
+![animation 5](/paradox/AC2.gif)
 
-**animation 6:** The structure contained in the box depends on which face the box is opened from.
+**animation 5:** A door which is only open when it is not within view of the player.
+
+***
+
+![animation 6](http://cdn.akamai.steamstatic.com/steam/apps/557600/extras/Gorogoa_2S.png?t=1513702083)
+
+**animation 6:** Movement across panels when the panels are aligned.
+
+***
