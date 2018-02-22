@@ -1,6 +1,7 @@
 ---
 title: Examples of Interactive Paradox
 hide: true
+permalink: /paradox
 ---
 
 ![animation 1](/paradox/MV2.gif)
