@@ -1,6 +1,5 @@
 ---
 title: Examples of Interactive Paradox
-permalink: /paradox
 hide: true
 ---
 
