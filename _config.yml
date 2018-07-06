@@ -8,5 +8,9 @@ avatar: assets/avatar.jpg
 linkedin_url: https://www.linkedin.com/in/cyril-focht-586b37156/
 twitter_url: https://twitter.com/gamesandbowties
 
+repository: cyrilfocht/cyrilfocht.github.io
 remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+collections:
+    - sections
+    - projects
+    - resume

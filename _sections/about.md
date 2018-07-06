@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About me
+icon: fa-comment
 order: 1
 ---
 
