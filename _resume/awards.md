@@ -1,7 +1,7 @@
 ---
 title: Honors & Awards
 icon: fa-trophy
-order: 3
+order: 2
 ---
 
 * 2017 Best student Poster, TTU College of Engineering Research Day
