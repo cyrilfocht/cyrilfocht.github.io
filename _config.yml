@@ -5,8 +5,16 @@ author: Cyril Focht
 email: cfocht@ucsc.edu
 avatar: assets/avatar.jpg
 
+baseurl: ""
+url: "https://cyrilfocht.github.io/"
+
 linkedin_url: https://www.linkedin.com/in/cyril-focht-586b37156/
 twitter_url: https://twitter.com/gamesandbowties
+
+plugins:
+  - jekyll-font-awesome-sass
+  - jekyll-sitemap
+  - jekyll-feed
 
 repository: cyrilfocht/cyrilfocht.github.io
 remote_theme: chrisbobbe/jekyll-theme-prologue

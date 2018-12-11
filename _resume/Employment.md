@@ -1,6 +1,6 @@
 ---
 title: Employment
-icon: fa-black-tie
+icon: fa-user-tie
 order: 1
 ---
 
