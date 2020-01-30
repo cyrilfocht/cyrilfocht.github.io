@@ -5,4 +5,4 @@ icon: fa-comment
 order: 1
 ---
 
-Hi! I'm Cyril Focht, a Master's student in computational media at the University of California Santa Cruz. My research is in interactive narrative, and I'm writing my thesis on choice poetics and approaches to narrative point of view that aren't centered on player agency. As an arts practice I mostly make games and interactive pieces about mysticism, drawing inspiration from traditional and modern works by mystic writers and artists.
+Hi! I'm Cyril Focht! I'm so happy to see you here! I'm a game developer with skills in design, writing, and programming, who does outreach on software studies ( which consists of trying to convince computing professionals and students to study the humanities). Many of my games are about mysticism, drawing inspiration from personal practice as well as traditional and modern works by mystic writers and artists, and I'm currently working on a narrative game about a day in people's lives.
