@@ -3,13 +3,14 @@ title: Rigging Elections for Fun and Profit Bibliography
 hide: true
 permalink: /rigging_elections_bibliography
 ---
+##Rigging Elections for Fun and Profit Bibliography
 
-Three Open Letters:
+###Three Open Letters:
 *Buell, Duncan. Et Al. to Vice President Harris, November 13, 2024. https://freespeechforpeople.org/wp-content/uploads/2024/11/letter-to-vp-harris-111324.pdf
 *Spoonamore, Stephen. “Duty to Warn Letter - to VP Harris - Re: Election 2024”, November 15, 2024. https://substack.com/home/post/p-151721941
 *Lutz, Raymond. to The Honorable Attorney General Merrick Garland, November 25, 2024. https://copswiki.org/w/pub/Common/M2028/Request%20for%20DOJ%20Investigation%20into%20the%20Integrity%20of%20the%202024%20Presidential%20Election.pdf
 
-Election Security:
+###Election Security:
 *Alvarez, Michael and Thad Hall. “Electronic Elections: The Perils and Promises of Digital Democracy”. Princeton University Press. 2010.
 *Campbell, Tracy. “Deliver the Vote: A History of Election Fraud, an American Political Tradition—1742-2004”. Carroll & Graf. 2005.
 *Collier, Victoria. “How to Rig an Election”. Harper’s Magazine. November 2012. https://harpers.org/archive/2012/11/how-to-rig-an-election/
@@ -24,7 +25,7 @@ Election Security:
 *Piper, Kelsey. “A hack nearly gained access to millions of computers. Here’s what we should learn from this”. Vox. April 12, 2024. https://www.vox.com/future-perfect/24127433/linux-hack-cyberattack-computer-security-internet-open-source-software
 *Verified Voting. “Summary of the Problem with Electronic Voting”. June, 2005. https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/
 
-Election Fraud:
+###Election Fraud:
 *Brown, Emma, Et Al. “Trump-allied lawyers pursued voting machine data in multiple states, records reveal”. The Washington Post. August 15, 2022. https://www.washingtonpost.com/investigations/2022/08/15/sidney-powell-coffee-county-sullivan-strickler/
 *Brown, Emma and Jon Swaine. “Inside the secretive effort by Trump allies to access voting machines.” The Washington Post. October 28, 2022. https://www.washingtonpost.com/investigations/2022/10/28/coffee-county-georgia-voting-trump/
 *Brumback, Kate. ”Video fills in details on alleged Ga. election system breach”. Associated Press. September 6, 2022. https://apnews.com/article/2022-midterm-elections-technology-donald-trump-voting-92c0ace71d7bee6151dd33938688371e
@@ -44,7 +45,7 @@ Election Fraud:
 *Tenbarge, Kat and Rudy Chinchilla. “Elon Musk announces $1M giveaway for voters who sign petition in battleground states”. NBC News. October 18, 2024. https://www.nbcnews.com/tech/tech-news/elon-musk-raises-payment-offer-100-voters-sign-petition-rcna176075
 *Thompson, Stuart, Kaleigh Rogers, and Steven Myers. “These Voters Want to ‘Stop the Steal.’ Top Democrats Aren’t Interested.” The New York Times. December 18, 2024. https://www.nytimes.com/2024/12/18/technology/democrats-election-denial-trump.html
 
-Disinformation:
+###Disinformation:
 *Al Jazeera. “Profile: Who are Ukraine’s far-right Azov regiment?”. March 1, 2022. https://www.aljazeera.com/news/2022/3/1/who-are-the-azov-regiment
 *American Psychological Association. “What psychological factors make people susceptible to believe and act on misinformation?”. March 1, 2021. https://www.apa.org/topics/journalism-facts/misinformation-belief-action
 *Asch, Solomon. “Effects of Group Pressure upon the Modification and Distortion of Judgments.” In Groups, Leadership and Men: Research in Human Relations, edited by Harold Guetzkow, 222–236. Oxford: Carnegie Press. 1951.
