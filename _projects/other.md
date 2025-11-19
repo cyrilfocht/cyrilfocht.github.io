@@ -4,7 +4,7 @@ icon: fa-umbrella
 order: 3
 ---
 
-* [Gamepad Meditation](https://ceciltheawesome.itch.io/gamepad-meditation): A gamepad-mediated guided meditation, based on practices for building bodily awareness.
+* [video essays](https://www.youtube.com/@cyrilfocht): Long-form essays on game analysis, software studies, and politics.
 * [Mirror Of The Heart](../mirrorofheart): An interactive installation based on Sufi meditation (digital art studio course project.)
 * [interactive paradox zine](../assets/zines/paradox_zine.pdf): A zine summarizing interactive paradox.
 * [narrative design zine](../assets/zines/Anti-colonialism%20zine.pdf): A zine about anti-colonialist approaches to narrative design.

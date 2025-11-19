@@ -1,15 +1,14 @@
 title: Cyril Focht
-subtitle: I make games
+subtitle: Data Analytics Consultant
 
 author: Cyril Focht
-email: cfocht@ucsc.edu
+email: cyril.focht@gmail.com
 avatar: assets/avatar.jpg
 
 baseurl: ""
 url: "https://cyrilfocht.github.io/"
 
-linkedin_url: https://www.linkedin.com/in/cyril-focht-586b37156/
-twitter_url: https://twitter.com/gamesandbowties
+linkedin_url: https://www.linkedin.com/in/cyril-focht/
 
 plugins:
   - jekyll-font-awesome-sass

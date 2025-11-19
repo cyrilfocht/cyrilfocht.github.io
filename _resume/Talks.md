@@ -4,6 +4,7 @@ icon: fa-comment
 order: 3
 ---
 
+* Cyril Focht. "[We Need to Rethink Player Agency](https://youtu.be/uMMJqM7_j2A?si=eMYgDVAESXXHgEm5)". PixelPop Festival. 2020.
 * Cyril Focht. "[Compassion as a Game Design Practice](https://www.youtube.com/watch?v=cbYAh2c9ZLI)". Freeplay Independent Games Festival. 2020.
 * Cyril Focht. "[On Models: the Ideological Underpinnings of Software](https://www.youtube.com/watch?v=XCS4vZGpjBU)". Invited talk at Elmhurst University. 2019.
 * Cyril Focht. "An Exploration of Interactive Paradox". Digital Games Research Association 2018. ([recording of the same talk at a different venue](https://www.youtube.com/watch?v=k3x6QU0Mqgc&t=3245s))

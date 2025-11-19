@@ -6,4 +6,4 @@ order: 2
 ---
 
 
-Here are some things that I've worked on, mostly game-related, but not all.
+This is a portfolio of my creative works. If you're here for data analytics samples, I'm still working on uploading some.
